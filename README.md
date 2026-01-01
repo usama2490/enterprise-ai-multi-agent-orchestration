@@ -267,4 +267,9 @@ curl -X POST "http://127.0.0.1:8000/ask" \
 - Reduced operational costs
 
 ## Disclaimer
-This repository demonstrates architecture patterns only.
+This repository demonstrates architectural patterns only and is intended for portfolio and educational viewing purposes only.
+
+## License
+This project is **All Rights Reserved**.
+See the [LICENSE](https://github.com/usama2490/enterprise-ai-multi-agent-orchestration/blob/main/LICENSE) file for details.
+
